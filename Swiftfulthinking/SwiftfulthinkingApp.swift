@@ -11,7 +11,26 @@ import SwiftUI
 struct SwiftfulthinkingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//            MagnificationGestureBootcamp()
+//            RotationGestureBootcamp()
+//            DragGestureBootcamp()
+//            GeometryReaderBootcamp()
+//            SoundsBootcamp()
+            LocalNotificationBootcamp()
+//            CoreDataBootcamp()
+//            CoreDataRelationshipBootcamp()
+//            BackgroundThreadBootcamp()
+//            WeakSelfBootcamp()
+//            CodableBootcamp()
+            
+//            DonwloadWithEscapingBootcamp()
+//            DonwloadingWithCombine()
+//            FileManagerBootcamp()
+            
+//        CacheBootcamp()
+//            DonwloadingImageBootcamp()
+            
         }
     }
 }
